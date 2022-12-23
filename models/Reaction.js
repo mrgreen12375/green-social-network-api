@@ -1,7 +1,7 @@
 const { Schema, Types} = require('mongoose');
 const moment = require('moment')
 
-const reactionModel = new Schema(
+const reactionSchema = new Schema(
     {
         reactionId:{
             type: Schema.Types.ObjectId,
@@ -31,4 +31,4 @@ const reactionModel = new Schema(
     }
 );
 
-module.exports = reactionModel;
+module.exports = reactionSchema;
