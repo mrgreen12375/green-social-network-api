@@ -1,4 +1,4 @@
-
+//setupt the route for the thought input information
 const router = require('express').Router();
 const {
     getThoughts,

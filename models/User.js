@@ -1,3 +1,4 @@
+//setupt the model for the user input information
 const { Schema, model} = require('mongoose');
 
 const userSchema = new Schema(

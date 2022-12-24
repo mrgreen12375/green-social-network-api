@@ -1,4 +1,4 @@
-
+// setup the controllers that will work with the routes
 const { User, Thought} = require('../models');
 
 module.exports ={

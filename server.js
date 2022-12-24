@@ -1,3 +1,4 @@
+//setup the packages needed and the port to be listening on
 const express = require('express');
 const db = require('./config/connection');
 const routes = require('./routes');

@@ -1,3 +1,4 @@
+//setupt the model for the reaction input information
 const { Schema, Types} = require('mongoose');
 const moment = require('moment')
 

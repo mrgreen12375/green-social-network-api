@@ -1,3 +1,4 @@
+//setupt the route for the user input information
 const router = require('express').Router();
 
 const {

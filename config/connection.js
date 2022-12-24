@@ -1,4 +1,4 @@
-
+//mongoDB connection with a mongoose wrapper
 const { connect, connection } = require('mongoose');
 
 const connectionString =
