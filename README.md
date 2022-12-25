@@ -32,6 +32,6 @@ GitHub Username: [mrgreen12375](https://github.com/mrgreen12375)
 
 Email Address: [ste2144105@gmail.com](ste2144105@gmail.com)
 ## Deployment Links
-Screencastify: 
+Screencastify: https://drive.google.com/file/d/1IMxe3VFSFfbu1wcxsSiY_v4-pvEV5Mck/view
 
 GitHub Repo: https://github.com/mrgreen12375/green-social-network-api
